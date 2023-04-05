@@ -474,6 +474,10 @@ ul {
         font-size: 15px;
         padding: 205px 30px 50px;
     }
+    
+    .studio .black-bg .yellow-space h4 {
+        font-size: 30px;
+    }
 
     .studio .black-bg .gray-area-one,
     .studio .black-bg .lightgray-area,
